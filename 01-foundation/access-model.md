@@ -48,4 +48,4 @@ Create `01-foundation/access-model.md` with a table of each user, their role, th
 
 Connect the data sources: Microsoft Entra ID, Microsoft 365, Defender XDR, and Azure Activity. These depend on the live Microsoft 365 trial tenant, so they take priority over documentation polish while the trial is active.
 
-![Sentinel connect with tenat](Sentinel connect with tenat.png)
+![Sentinel connected to tenant](Sentinel%20connect%20with%20tenat.png))
